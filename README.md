@@ -1,4 +1,4 @@
-# ELTE DeepLearningCourse 2017
+# Deep Learning Course 2017-2018/1 @ ELTE
 The official repository of Deep learning and machine learning in science (deeplea17em) course @ ELTE.
 
 Course website: http://qati.me/dl-class.html
