@@ -13,7 +13,7 @@ Contact: deeplearninginsciences at gmail dot com
 For all deadlines: 23:59:59 CET.
 
 ## Projects:
-1. [Predict redhift from photometric data](https://www.kaggle.com/c/elte-phys-photoz) 
+1. [Predict redshift from photometric data](https://www.kaggle.com/c/elte-phys-photoz) 
 2. [Predict if a person is happy based on images](https://www.kaggle.com/t/94ff0b242e0f4d1f8438f0d2c29aa071) you can find some help [here](https://github.com/qati/DeepLearningCourse/blob/master/demo_notebooks/happiness_kaggle_starter.ipynb). 
 
 
