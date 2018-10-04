@@ -1,8 +1,7 @@
 # Deep learning and machine learning in science 2017-2018/1 @ ELTE
-The official repository of Deep learning and machine learning in science (deeplea17em) course @ ELTE.
+Forked from the official repository of Deep learning and machine learning in science (deeplea17em) course @ ELTE.
 
 Course website: http://qati.me/dl-class.html
-
 
 Contact: deeplearninginsciences at gmail dot com  
 
