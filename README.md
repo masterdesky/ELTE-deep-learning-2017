@@ -3,8 +3,6 @@ Forked from the official repository of Deep learning and machine learning in sci
 
 Course website: http://qati.me/dl-class.html
 
-Contact: deeplearninginsciences at gmail dot com  
-
 ## Homeworks:
 | deadline | task |
 | --- | --- |
