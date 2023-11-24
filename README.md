@@ -1,4 +1,4 @@
-# Deep learning and machine learning in science 2017-2018/1 @ ELTE
+# Deep learning and machine learning in science 2017-2018/2 @ ELTE
 Forked from the [official repository](https://github.com/qati/DeepLearningCourse) of Deep learning and machine learning in science (deeplea17em) course @ ELTE.
 
 Course website: http://qati.me/dl-class.html
